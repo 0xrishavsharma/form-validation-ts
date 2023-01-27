@@ -1,0 +1,7 @@
+.inputField:invalid[focused="true"] {
+  border: 1px solid #b91c1c;
+}
+
+.inputField:invalid[focused="true"] ~ .errorMessage {
+  display: block;
+}

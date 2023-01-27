@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary-color: rgb(148, 9, 247);
+  --primary-color-light: rgb(175, 62, 255);
+  --primary-color-lightest: rgb(226, 190, 251);
+}
